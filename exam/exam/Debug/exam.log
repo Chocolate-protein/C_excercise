@@ -1,0 +1,3 @@
+﻿  exam2.c
+exam2.obj : error LNK2005: _main이(가) exam.obj에 이미 정의되어 있습니다.
+C:\Users\LG\Documents\Visual Studio 2015\Projects\예제풀이\exam\Debug\exam.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
