@@ -1,0 +1,4 @@
+﻿  3-2.c
+c:\users\lg\documents\visual studio 2015\projects\예제풀이\중간고사(ch.1 ~ ch.6)\ch.3\3-2.c(10): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  CH.3.vcxproj -> C:\Users\LG\Documents\Visual Studio 2015\Projects\예제풀이\중간고사(CH.1 ~ CH.6)\Debug\CH.3.exe
+  CH.3.vcxproj -> C:\Users\LG\Documents\Visual Studio 2015\Projects\예제풀이\중간고사(CH.1 ~ CH.6)\Debug\CH.3.pdb (Full PDB)
